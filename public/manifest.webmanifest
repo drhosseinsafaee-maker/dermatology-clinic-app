@@ -1,0 +1,12 @@
+{
+  "name": "کلینیک دکتر حسین صفائی",
+  "short_name": "دکتر صفائی",
+  "description": "رزرو نوبت، معرفی خدمات و مراقبت‌های پوست، مو و زیبایی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ec",
+  "theme_color": "#24463d",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
